@@ -46,8 +46,11 @@ A repeated test over a number of trials can be run using
 
 The code is largely authored by Andrew Thompson (National Physical 
 Laboratory, UK), but some of the original chirp reconstruction code is also 
-written by Sina Jafarpour (Facebook, USA). The fast Hadamard routine is by
-Gylson Thomas (Jyothi Engineering College, India).
+written by Sina Jafarpour (Facebook, USA), based on the work in the paper
+'A fast reconstruction algorithm for deterministic compressive sensing using 
+second order reed-muller codes' (Howard/Calderbank/Searle, Conference on 
+Information Science and Systems, Princeton, NJ, 2008). The fast Hadamard 
+transform routine is by Gylson Thomas (Jyothi Engineering College, India).
 
 Please refer to the code for more detailed explanation of input and output 
 parameters for each program.

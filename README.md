@@ -51,3 +51,5 @@ Gylson Thomas (Jyothi Engineering College, India).
 
 Please refer to the code for more detailed explanation of input and output 
 parameters for each program.
+
+Contact details for author: andrewjthompson42@gmail.com

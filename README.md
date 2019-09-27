@@ -76,7 +76,7 @@ propfound = compare_bits(input_bits,output_bits)
 ```
 
 A repeated test over a number of trials can be run using
-[propfound ave_time] = run(r, l, re, m, p, EbN0, K, trials)
+`[propfound ave_time] = run(r, l, re, m, p, EbN0, K, trials)`
 
 ## Authors
 The code is largely authored by Andrew Thompson (National Physical 
@@ -86,7 +86,7 @@ written by Sina Jafarpour (Facebook, USA), based on the work in the paper
 second order reed-muller codes' (Howard/Calderbank/Searle, Conference on 
 Information Science and Systems, Princeton, NJ, 2008). The fast Hadamard 
 transform routine is by Gylson Thomas (Jyothi Engineering College, India). 
-Some refactoring of the code has been undertaken by Bilal Chughtai (University of Cambridge)
+Some refactoring of the code has been undertaken by Bilal Chughtai (University of Cambridge, UK)
 
 Please refer to the code for more detailed explanation of input and output 
 parameters for each program.
